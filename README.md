@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SteevThomas98
-- 👀 I’m interested in MEANStack as well as Cybersecurity..
-- 🌱 I’m currently learning MEAN Stack...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m STEEV THOMAS.
+- 👀 I’m interested in WebDevelopment as well as Cybersecurity.
+- 🌱 I’m currently learning MEAN Stack, Web3
+- 💞️ I’m looking to collaborate on Angular, React Projects
+- 📫 Reach out to me on stevethomaswk@gmail.com
 
-<!---
-SteevThomas98/SteevThomas98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/steve_thomas_98"><img src="https://api.daily.dev/devcards/cdc7d73617314a4583abff956bd94bdb.png?r=wqu" width="400" alt="Steevthomas1998's Dev Card"/></a>
+
+
+
